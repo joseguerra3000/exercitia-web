@@ -1,4 +1,4 @@
-# Exercitia - Aplicación en desarrollo 
+# Exercitia App  (en desarrollo)
 
 Exercitia ha sido concebida como una herramienta de apoyo para el aprendizaje del latín, dirigida tanto a estudiantes de educación secundaria como del ámbito universitario. Aunque centrada en el estudio de la morfología, la aplicación aborda también cuestiones sintácticas y semánticas, con el fin de ofrecer una comprensión lo más completa y articulada posible de la lengua. 
 
