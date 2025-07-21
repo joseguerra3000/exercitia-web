@@ -15,7 +15,7 @@
 </section>
 
 
-Exercitia ha sido concebida como una herramienta de apoyo para el aprendizaje del latín, dirigida tanto a estudiantes de educación secundaria como del ámbito universitario. Aunque centrada en el estudio de la morfología, la aplicación aborda también cuestiones sintácticas y semánticas, con el fin de ofrecer una comprensión lo más completa y articulada posible de la lengua.
+__Exercitia__ ha sido concebida como una herramienta de apoyo para el aprendizaje del latín, dirigida tanto a estudiantes de educación secundaria como del ámbito universitario. Aunque centrada en el estudio de la morfología, la aplicación aborda también cuestiones sintácticas y semánticas, con el fin de ofrecer una comprensión lo más completa y articulada posible de la lengua.
 
 El contenido morfológico se organiza en cinco grandes categorías -morfología nominal, adjetival, verbal, pronominal y adverbial-, subdivididas, a su vez, en unidades específicas (por ejemplo, dentro de la morfología nominal: 1ª declinación, 2ª declinación, 3ª declinación tema en –i, 3ª declinación tema en consonante, 4ª y 5ª declinación, declinación grecolatina). El usuario puede seleccionar una o varias unidades, incluso de distintas categorías, según los temas que le resulten más complejos, propiciando de este modo un aprendizaje personalizado y adecuado a sus necesidades.
 
